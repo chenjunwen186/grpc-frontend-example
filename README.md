@@ -1,2 +1,2 @@
-# grpc-frontend
-using grpc on the frontend
+# grpc-frontend-example
+Example of using grpc on the frontend
